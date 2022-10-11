@@ -10,8 +10,7 @@ A set of async patterns implemented in both golang and javascript. Serves as a t
 
 
 ### TODO: examples
-- Multiple http calls at the same time.
-- In memory batch which fires off after certain number of things have been queued.
-- In memory batch whihc fires off after time limit has exceeded.
 - Queue which only allows x number of http calls to be made at the same time (http-agent).
+- In memory batch which fires off after certain number of things have been queued.
+- In memory batch which fires off after time limit has exceeded.
 - Producer/consumer.
