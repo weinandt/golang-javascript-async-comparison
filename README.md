@@ -14,3 +14,4 @@ A set of async patterns implemented in both golang and javascript. Serves as a t
 - In memory batch which fires off after certain number of things have been queued.
 - In memory batch which fires off after time limit has exceeded.
 - Producer/consumer.
+- Fire and forget.
